@@ -1,0 +1,18 @@
+.bg-apps {
+    background-color: cornflowerblue;
+}
+
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 380px;
+    height: 380px;
+    border: 10px solid cornflowerblue;
+    border-radius: 50%;
+}
+
+.text-blue {
+    color: blue;
+}
